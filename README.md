@@ -1,7 +1,6 @@
-# Digital-image-processing
+# Digital Image processing
+# Noise Reduction and masking of images
 ****
-File name: main.ipynb
-------
 1. Image averaging to reduce noise
 2. Image multiplication for masking
 ------
